@@ -1,5 +1,6 @@
 # DataScientist_ikusei_kouza
- Python practice with the book "Tokyo Daigaku No Data Scientist Ikusei Kouza"
+《東京大學資料科學家養成全書》Python練習
+Python practice with the book "Tokyo Daigaku No Data Scientist Ikusei Kouza"
 
 ## DataScientist_ikusei_kouza_section1.ipynb
 * 資料處理、科學計算基本功能: Scipy, matplotlib
